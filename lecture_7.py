@@ -9,6 +9,7 @@ printitems={'sandwiches':4,'apples':12,'cups':4,'cookies':8000}
 
 printPicnic(printitems,12,5)
 
+
 import pyperclip
 pyperclip.copy('hellow word')
 
